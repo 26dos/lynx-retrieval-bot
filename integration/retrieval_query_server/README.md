@@ -4,7 +4,7 @@
 A lightweight HTTP service that aggregates retrieval success rates from MongoDB and exposes them via Redis-backed APIs.
 This README documents environment variables, data flow, Redis data layout, and **all HTTP endpoints** served by this code.
 
-> **Base URL (provided):** `http://203.160.84.158:58787`
+> **Base URL (provided):** `https://lynx-api.laughstorage.com:58787`
 
 ---
 
